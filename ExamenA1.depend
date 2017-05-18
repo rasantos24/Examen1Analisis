@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1495137498 source:c:\users\rafael\documents\examena1\binarynode.cpp
+	"BinaryNode.h"
+
+1495137498 c:\users\rafael\documents\examena1\binarynode.h
+	<iostream>
+
+1495137498 source:c:\users\rafael\documents\examena1\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+
+1495137498 c:\users\rafael\documents\examena1\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"BinaryNode.h"
+
+1495145710 source:c:\users\rafael\documents\examena1\map.cpp
+	"Map.h"
+
+1495147103 c:\users\rafael\documents\examena1\map.h
+	<iostream>
+	<map>
+	<vector>
+
+1495137498 source:c:\users\rafael\documents\examena1\test.cpp
+	"Test.h"
+	"Map.h"
+
